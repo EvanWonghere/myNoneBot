@@ -1,0 +1,39 @@
+{
+    "product": "SmartabS4",
+    "device": "SmartabS4",
+    "board": "SmartabS4",
+    "brand": "Smartec",
+    "model": "SmartabS4",
+    "wifi_ssid": "TP-LINK_AZWTA9",
+    "android_id": "SQ1A.211205.008",
+    "boot_id": "0cb90b7c-dc53-f9ec-666f-e0d25ed64a56",
+    "proc_version": "Linux version 3.12.45-Ut9aTJoz (android-build@dc53f9ec666f.source.android.com)",
+    "mac_address": "0C:B9:0B:7C:DC:53",
+    "ip_address": [
+        188,
+        6,
+        133,
+        167
+    ],
+    "imei": "065408366921744",
+    "incremental": "4208802468",
+    "protocol": 2,
+    "display": "SQ1A.211205.008",
+    "finger_print": "Smartec/SmartabS4/SmartabS4:10/SQ1A.211205.008/4208802468:user/release-keys",
+    "baseband": "",
+    "sim": "T-Mobile",
+    "sim_info": "T-Mobile",
+    "os_type": "android",
+    "bootloader": "U-boot",
+    "wifi_bssid": "0C:B9:0B:7C:DC:53",
+    "apn": "wifi",
+    "version": {
+        "incremental": "4208802468",
+        "release": "10",
+        "codename": "REL",
+        "sdk": 29
+    },
+    "imsi_md5": "343c27d9941c0e0e965f5ff29f254483",
+    "vendor_name": "Smartec",
+    "vendor_os_name": "android"
+}

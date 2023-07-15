@@ -1,0 +1,14 @@
+[project]
+name = "naobot"
+version = "0.1.0"
+description = "naobot"
+readme = "README.md"
+requires-python = ">=3.8, <4.0"
+
+[tool.nonebot]
+adapters = [
+    { name = "OneBot V11", module_name = "nonebot.adapters.onebot.v11" }
+]
+plugins = ["nonebot_plugin_gocqhttp", "nonebot_plugin_petpet", "nonebot_plugin_what2eat", "nonebot_plugin_apscheduler", "nonebot_plugin_justsix", "nonebot_plugin_emojimix", "nonebot_plugin_nowtime", "nonebot_plugin_tarot", "nonebot_plugin_random_stereotypes", "nonebot_plugin_questionmark", "nonebot_plugin_imageutils", "nonebot_plugin_code", "nonebot_plugin_memes", "nonebot_plugin_ncm_saying", "nonebot-plugin-ncm", "nonebot_plugin_gpt3", "nonebot_plugin_kfcrazy", "nonebot_plugin_epicfree", "nonebot_plugin_logo", "nonebot_plugin_abstract", "nonebot_plugin_date_name", "nonebot_plugin_AutoRepeater", "nonebot_plugin_hotsearch", "nonebot_plugin_fortune", "nonebot_plugin_wordle", "nonebot_plugin_handle", "nonebot_plugin_wordcloud", "nonebot_plugin_htmlrender", "nonebot_plugin_heweather", "nonebot_plugin_trace_moe", "nonebot_plugin_oddtext", "nonebot-plugin-random", "nonebot_plugin_bread_shop", "nonebot_plugin_wordsnorote", "nonebot_plugin_roll"]
+plugin_dirs = []
+builtin_plugins = ["echo"]

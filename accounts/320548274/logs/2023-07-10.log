@@ -1,0 +1,67 @@
+[2023-07-10 06:21:11] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2023-07-10 07:00:05] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2023-07-10 07:00:10] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2023-07-10 07:00:15] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2023-07-10 07:00:21] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2023-07-10 12:26:08] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2023-07-10 12:26:21] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2023-07-10 12:34:22] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2023-07-10 13:00:05] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2023-07-10 13:00:11] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2023-07-10 14:00:05] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2023-07-10 14:00:11] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2023-07-10 15:00:05] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2023-07-10 15:00:05] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2023-07-10 15:00:10] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2023-07-10 15:00:11] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2023-07-10 15:00:15] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2023-07-10 15:00:21] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2023-07-10 15:00:26] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2023-07-10 16:00:05] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2023-07-10 16:00:11] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2023-07-10 17:00:05] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2023-07-10 17:00:11] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2023-07-10 17:02:15] [ERROR]: Protocol -> parse incoming packet error: return code unsuccessful: -10003 
+[2023-07-10 17:02:30] [ERROR]: Protocol -> parse incoming packet error: return code unsuccessful: -10003 
+[2023-07-10 17:04:29] [ERROR]: Protocol -> parse incoming packet error: return code unsuccessful: -10004 
+[2023-07-10 17:04:55] [ERROR]: Protocol -> parse incoming packet error: return code unsuccessful: -10004 
+[2023-07-10 17:04:57] [ERROR]: Protocol -> parse incoming packet error: return code unsuccessful: -10004 
+[2023-07-10 17:05:21] [ERROR]: Protocol -> parse incoming packet error: return code unsuccessful: -10004 
+[2023-07-10 17:06:15] [ERROR]: Protocol -> parse incoming packet error: return code unsuccessful: -10003 
+[2023-07-10 17:06:30] [ERROR]: Protocol -> parse incoming packet error: return code unsuccessful: -10003 
+[2023-07-10 17:10:09] [ERROR]: Protocol -> parse incoming packet error: return code unsuccessful: -10004 
+[2023-07-10 17:10:14] [ERROR]: Protocol -> parse incoming packet error: return code unsuccessful: -10004 
+[2023-07-10 17:10:15] [ERROR]: Protocol -> parse incoming packet error: return code unsuccessful: -10003 
+[2023-07-10 17:10:30] [ERROR]: Protocol -> parse incoming packet error: return code unsuccessful: -10003 
+[2023-07-10 17:13:39] [ERROR]: Protocol -> parse incoming packet error: return code unsuccessful: -10004 
+[2023-07-10 17:13:50] [ERROR]: Protocol -> parse incoming packet error: return code unsuccessful: -10004 
+[2023-07-10 17:14:04] [ERROR]: Protocol -> parse incoming packet error: return code unsuccessful: -10004 
+[2023-07-10 17:14:15] [ERROR]: Protocol -> parse incoming packet error: return code unsuccessful: -10003 
+[2023-07-10 17:14:30] [ERROR]: Protocol -> parse incoming packet error: return code unsuccessful: -10003 
+[2023-07-10 17:15:30] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2023-07-10 17:15:30] [ERROR]: Protocol -> parse incoming packet error: return code unsuccessful: -10003 
+[2023-07-10 17:15:45] [ERROR]: Protocol -> parse incoming packet error: return code unsuccessful: -10003 
+[2023-07-10 17:16:00] [ERROR]: Protocol -> register client failed: Packet timed out 
+[2023-07-10 17:16:00] [WARNING]: Bot已离线: register error 
+[2023-07-10 17:16:03] [WARNING]: 将在 3 秒后尝试重连. 重连次数：2/0 
+[2023-07-10 17:16:06] [WARNING]: 尝试重连... 
+[2023-07-10 17:16:06] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-07-10 19:00:05] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2023-07-10 19:00:11] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2023-07-10 20:00:05] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2023-07-10 20:00:11] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2023-07-10 20:28:22] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2023-07-10 21:00:05] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2023-07-10 21:00:11] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2023-07-10 21:25:18] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2023-07-10 22:00:05] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2023-07-10 22:00:10] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2023-07-10 22:00:15] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2023-07-10 22:00:20] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2023-07-10 22:00:26] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2023-07-10 22:09:49] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2023-07-10 22:21:16] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2023-07-10 22:22:09] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2023-07-10 22:29:08] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2023-07-10 22:30:47] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2023-07-10 23:43:55] [WARNING]: 群消息发送失败: 账号可能被风控. 
